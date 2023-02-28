@@ -19,11 +19,13 @@
 </p>
 <br/>
 
-Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
+Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!  
+
+Solidity language is mainly based on frontend tools  
 
 # Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ
 
-All code references have both a javascript and a typescript edition.
+All code references have both a javascript and a typescript edition.(ts an extention of js)
 
 Recommended Testnet: Rinkeby
 
